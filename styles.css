@@ -1,0 +1,50 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	padding: 40px;
+	background-color: #4cb0d0;
+	color: white;
+	font-size: 25px;
+	font-family: Arial;
+	text-align: center;
+}
+
+p {
+	display: inline-block;
+}
+
+#date, #location {
+	font-size: 17px;
+	color: ghostwhite;
+}
+
+#time {
+	font-size: 35px;
+	margin-top: 10px;
+}
+
+img {
+	margin-top: 20px;
+	width: 150px;
+}
+
+#load {
+	width: 50px;
+	margin-top: -20px;
+}
+
+#image {
+	display: none;
+}
+
+#main {
+	margin-bottom: 20px;
+}
+
+#temp {
+	font-size: 66px;
+}
