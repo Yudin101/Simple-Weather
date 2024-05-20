@@ -11,5 +11,8 @@
       "128": "assets/icons/128.png"
     }
   },
-  "permissions": ["geolocation"]
+  "permissions": ["geolocation"],
+  "author": "Yudin Karki (Yudin101)",
+  "license": "MIT",
+  "homepage": "https://github.com/Yudin101/Simple-Weather/"
 }
